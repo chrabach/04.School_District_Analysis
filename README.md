@@ -13,16 +13,16 @@ The purpose of this analysis is to assist a City school system’s school board 
 ## Results
 
 
-![District Summary Unadjusted](other_resources/107_district_summary.png)
-[District Summary Unadjusted](other_resources/107_district_summary.png
+![District Summary Unadjusted](analysis/107_district_summary.png)
+[District Summary Unadjusted](analysis/107_district_summary.png
 ?raw=true "District Summary Unadjusted")
 
 
-![District Summary Adjusted](other_resources/26_district_summary_adjusted.png)
-[District Summary Adjusted](other_resources/26_district_summary_adjusted.png
+![District Summary Adjusted](analysis/26_district_summary_adjusted.png)
+[District Summary Adjusted](analysis/26_district_summary_adjusted.png
 ?raw=true "District Summary Adjusted")
 
-![District Summary Comparison]( other_resources/01.District_Summary_Comparison.png)
+![District Summary Comparison](other_resources/01.District_Summary_Comparison.png)
 [District Summary Comparison](other_resources/01.District_Summary_Comparison.png?raw=true "District Summary Comparison")
 
 
@@ -71,8 +71,8 @@ The spending summary analysis changes within the $630-644 bucket, as that is the
 
 
 ### School Size:
-![School Size Adjusted](analysis/ 67_school_size_adjusted_for_ths.png)
-[School Size Adjusted](analysis/ 67_school_size_adjusted_for_ths.png?raw=true "School Size Adjusted")
+![School Size Adjusted](analysis/67_school_size_adjusted_for_ths.png)
+[School Size Adjusted](analysis/67_school_size_adjusted_for_ths.png?raw=true "School Size Adjusted")
 
 ![School Size Unadjusted](analysis/158_size_summary.png)
 [School Size Unadjusted](analysis/158_size_summary.png?raw=true "School Size Unadjusted")
