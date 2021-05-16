@@ -14,13 +14,11 @@ The purpose of this analysis is to assist a City school system’s school board 
 
 
 ![District Summary Unadjusted](analysis/107_district_summary.png)
-[District Summary Unadjusted](analysis/107_district_summary.png
-?raw=true "District Summary Unadjusted")
+[District Summary Unadjusted](analysis/107_district_summary.png?raw=true "District Summary Unadjusted")
 
 
 ![District Summary Adjusted](analysis/26_district_summary_adjusted.png)
-[District Summary Adjusted](analysis/26_district_summary_adjusted.png
-?raw=true "District Summary Adjusted")
+[District Summary Adjusted](analysis/26_district_summary_adjusted.png?raw=true "District Summary Adjusted")
 
 ![District Summary Comparison](other_resources/01.District_Summary_Comparison.png)
 [District Summary Comparison](other_resources/01.District_Summary_Comparison.png?raw=true "District Summary Comparison")
@@ -48,7 +46,7 @@ The purpose of this analysis is to assist a City school system’s school board 
 
 
 ![Top 5 Schools Adjusted for THS](analysis/47_top5_adjusted_for_ths.png)
-[Top 5 Schools Adjusted for THS](analysis/47_top5_adjusted_for_ths.png?raw=true " Top 5 Schools Adjusted ")
+[Top 5 Schools Adjusted for THS](analysis/47_top5_adjusted_for_ths.png?raw=true "Top 5 Schools Adjusted ")
 
 
 
